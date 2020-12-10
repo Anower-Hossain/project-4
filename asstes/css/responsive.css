@@ -1,0 +1,81 @@
+/*medium layout: 1280px. */
+@media only screen and (min-width:992px) and (max-width: 1200px)
+{                       }
+
+/* tablet layout: 768px */
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{                       }
+
+
+/* mobile layout: 320px */
+@media only screen and  (max-width: 767px)
+{            
+
+.header .col2 {
+	display:none;
+}
+
+.header .col3 {
+	display:none;
+}
+.chapter .chap .img1 img{
+	width: 100%;
+}
+
+.chapter2 .col {
+	width: 100%;
+	float: none;
+}
+
+.chapter2 .col3 {
+	width: 50%;
+}
+
+.read .col1 {
+	width: 100%;
+	float: none;
+}
+.read .col2 {
+	width: 100%;
+	float: none;
+}
+
+.client .col {
+	width: 100%;
+	float: none;
+}
+
+.audio .col {
+	width: 100%;
+	float: none;
+
+}
+
+.order .col1 {
+	width: 100%;
+	float: none;
+}
+.order .col2 {
+	width: 100%;
+	float: none;
+}
+
+.about .col1 {
+	width: 100%;
+	float: none;
+}
+
+.about .col2 {
+	width: 100%;
+	float: none;
+}
+
+
+.banner .text {
+	text-align: center;
+}
+
+}
+
+
+           }
